@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "parcel",
-    "build": "parcel build --no-optimize --no-content-hash"
+    "build": "parcel build --no-optimize --no-content-hash --dist-dir docs"
   },
   "keywords": [],
   "author": "",
