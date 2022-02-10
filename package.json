@@ -1,0 +1,17 @@
+{
+  "name": "d128viewer",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "private": true,
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --no-optimize --no-content-hash"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.3.0"
+  }
+}

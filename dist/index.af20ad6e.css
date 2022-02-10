@@ -1,0 +1,43 @@
+main {
+    font-family: monospace;
+    font-size: 1.75em;
+}
+
+input[type="text"] {
+    font-size: 1.2em;
+    background-color: #000;
+    color: #FFF;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+    width: 80%;
+}
+
+body {
+    background-color: #000;
+    color:#FFF;
+    margin: 25px;
+    padding: 25px
+}
+
+#error {
+    color: maroon;
+    font-size: 1.5em;
+}
+
+#corpusExamplesList {
+    font-size: 1em;
+}
+#corpusExamplesList > li {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.exampleName {
+    color:aquamarine;
+}
+
+/*# sourceMappingURL=index.af20ad6e.css.map */
